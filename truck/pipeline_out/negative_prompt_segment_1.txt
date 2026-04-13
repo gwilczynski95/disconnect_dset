@@ -1,0 +1,1 @@
+flat plane extension, 2D stretching of truck side, linear continuation of flatbed, bending concrete floor lines, morphing cab into hood, warped wheels, melting metal, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

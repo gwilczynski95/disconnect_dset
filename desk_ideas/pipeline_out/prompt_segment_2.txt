@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth dolly forward and pedestal down transitioning from wide office overview to the foreground table and white chair. Constant 3D depth, maintaining floor box alignment and plant volume. Traverses the empty floor space toward the specific furniture cluster. No morphing, continuous 3D volume, strict spatial depth.

@@ -1,0 +1,1 @@
+Train movement, wheel rotation, sliding textures, 2D flattening, morphing, warping, liquid geometry, wind, motion, dynamic environment, hallucinations, texture stretching, track distortion.

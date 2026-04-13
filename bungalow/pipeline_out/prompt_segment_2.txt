@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth orbit right, pedestal down, transitioning from side exterior wall to the perpendicular front porch. Rotate 90 degrees around the black corner pillar. Continuous 3D volume, strict spatial depth, static vegetation, fixed house structure.

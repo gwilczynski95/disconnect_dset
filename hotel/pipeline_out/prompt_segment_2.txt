@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth crane down and orbit left transitioning from elevated building corner to the adjacent perpendicular facade. The camera descends while rotating around the 90-degree stone corner to face the windowed wall squarely. Unseen volume maps the vertical height drop and the rigid corner angle. No morphing, continuous 3D volume, strict spatial depth.

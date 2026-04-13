@@ -1,0 +1,1 @@
+flat plane extension, ignoring 90-degree corner, 2D stretching, squashing perspective, blending walls, curving architecture, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

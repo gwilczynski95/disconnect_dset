@@ -1,0 +1,89 @@
+!!python/object:src.experiment.ExperimentConfig
+_target: !!python/name:src.experiment.Experiment ''
+data: !!python/object/apply:pathlib.PosixPath
+- /
+- shared
+- results
+- gmwilczn
+- disconnect
+- disconnect-views
+- dsets
+- train
+experiment_name: test
+output_dir: outputs
+pipeline: !!python/object:src.pipeline.PipelineConfig
+  _target: !!python/name:src.pipeline.Pipeline ''
+  data: null
+  liminal_generator: !!python/object:src.generators.liminal_generators.FramepackLiminalGeneratorConfig
+    _target: !!python/name:src.generators.liminal_generators.FramepackLiminalGenerator ''
+    data: null
+    guidance_scale: 7.0
+    image_generator: !!python/object:src.generators.gemini_generators.GeminiImageGeneratorConfig
+      _target: !!python/name:src.generators.gemini_generators.GeminiImageGenerator ''
+      api_key_path: /shared/results/gmwilczn/disconnect/AnySplat/scripts/gemini_apikey.txt
+      base_delay_seconds: 3
+      max_retries: 5
+      model: gemini-3.1-flash-image-preview
+      nano_meta_prompt_path: assets/nano_meta_prompt.txt
+      num_candidates: 3
+      output_dir: null
+    images_per_clip: 2
+    judgement_generator: !!python/object:src.generators.qwen_generators.QwenJudgementGeneratorConfig
+      _target: !!python/name:src.generators.qwen_generators.QwenJudgementGenerator ''
+      model: Qwen/Qwen2-VL-7B-Instruct
+      num_candidates: 3
+      output_dir: null
+    output_dir: null
+    prompt_generator: !!python/object:src.generators.gemini_generators.GeminiPromptGeneratorConfig
+      _target: &id001 !!python/name:src.generators.gemini_generators.GeminiPromptGenerator ''
+      api_key_path: /shared/results/gmwilczn/disconnect/AnySplat/scripts/gemini_apikey.txt
+      model: gemini-3-flash-preview
+      num_candidates: 3
+      output_dir: null
+      video_meta_prompt_path: assets/video_meta_prompt.txt
+  output_dir: null
+  reconstruction_model: !!python/object:src.models.anysplat.AnySplatConfig
+    _target: !!python/name:src.models.anysplat.AnySplat ''
+    model_id: lhjiang/anysplat
+  refinement_model: !!python/object:src.models.loop_refinement.SplatRefinerLoopConfig
+    _target: !!python/name:src.models.loop_refinement.SplatLoopRefiner ''
+    evaluate_every: 1
+    evaluator: !!python/object:src.utils.evaluator.IterativeEvaluatorConfig
+      _target: !!python/name:src.utils.evaluator.IterativeEvaluator ''
+      clip_score: !!python/object:src.utils.metrics.CLIPScoreConfig
+        _target: !!python/name:src.utils.metrics.CLIPScore ''
+        device: cuda
+        model_name: openai/clip-vit-base-patch16
+      lpips: !!python/object:src.utils.metrics.LPIPSConfig
+        _target: !!python/name:src.utils.metrics.LPIPS ''
+        device: cuda
+        net_type: vgg
+    image_enhancer: !!python/object:src.models.image_enhancer.ImageEnhancerConfig
+      _target: !!python/name:src.models.image_enhancer.ImageEnhancer ''
+      controlnet_strength: 0.75
+      guidance_scale: 6.0
+      hdr: 0.0
+      num_inference_steps: 20
+      resolution: 1024
+      scheduler_name: DDIM
+      strength: 0.4
+    inpainting_model: !!python/object:src.models.inpainter.GridInpaintingModelConfig
+      _target: !!python/name:src.models.inpainter.GridInpaintingModel ''
+      model: runwayml/stable-diffusion-v1-5
+    lambda_dssim: 0.2
+    num_cycles: 5
+    num_views: 200
+    prompt_generator: !!python/object:src.generators.gemini_generators.GeminiPromptGeneratorConfig
+      _target: *id001
+      api_key_path: /shared/results/gmwilczn/disconnect/AnySplat/scripts/gemini_apikey.txt
+      model: gemini-3-flash-preview
+      num_candidates: 3
+      output_dir: null
+      video_meta_prompt_path: assets/video_meta_prompt.txt
+    t_end: 0.0
+    t_start: 0.2
+    train_iterations_per_cycle: 300
+  skip_dataset_generation: false
+  skip_reconstruction: true
+  skip_refinement: true
+timestamp: train

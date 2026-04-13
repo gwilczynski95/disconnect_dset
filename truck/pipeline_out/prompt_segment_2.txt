@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth camera orbit left and slightly down, transitioning from the front-right 3/4 truck profile to the adjacent direct front grille view. Revealing the curved 3D volume of the passenger fender, projecting headlights, front bumper gap, and continuous concrete ground grid. No morphing, continuous 3D volume, strict spatial depth.

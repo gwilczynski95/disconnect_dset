@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. [Crane down, dolly forward, pan right] transitioning from [high-angle room overview] to the [lower, closer adjacent] [corner with chest, shuttered window, and fireplace mantel]. Camera navigates over the central table and patterned rug into the corner volume. No morphing, continuous 3D volume, strict spatial depth.

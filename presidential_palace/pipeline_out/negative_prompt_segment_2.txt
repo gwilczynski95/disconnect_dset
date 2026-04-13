@@ -1,0 +1,1 @@
+flat plane extension, linear continuation, 2D stretching, texture sliding, sliding cobblestones, statue dissolving into building, morphing, warping, liquid geometry, wind, motion, dynamic environment, distorted perspective, floating plaques, moving text, hallucinations.

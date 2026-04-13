@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth dolly backward and pedestal up, transitioning from the close-up potted plant and left sofa arm to the wider full yellow sofa and foreground coffee table. Revealing the expanding spatial depth of the seating area, floor plane, and overhead ceiling structure. No morphing, continuous 3D volume, strict spatial depth.

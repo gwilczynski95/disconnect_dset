@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Crane down, dolly right, and pan left transitioning from elevated building corner apex to the adjacent ground-level street. Descending through 3D volume along the arched beige facade, revealing street lamps and cobblestone depth. No morphing, continuous 3D volume, strict spatial depth.
