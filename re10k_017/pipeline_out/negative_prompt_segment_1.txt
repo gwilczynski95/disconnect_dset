@@ -1,0 +1,1 @@
+2D floor stretching, furniture morphing into countertops, flat plane extension, linear continuation, warping columns, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

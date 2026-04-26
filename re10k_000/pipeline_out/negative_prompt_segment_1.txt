@@ -1,0 +1,1 @@
+2D zoom out, flat image scaling, perspective distortion, morphing furniture, wall warping, linear continuation, 2D stretching, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

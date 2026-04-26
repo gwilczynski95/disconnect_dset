@@ -1,0 +1,1 @@
+2D floor stretching, staircase curve flattening, vertical smearing, morphing brass statues, scale distortion, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

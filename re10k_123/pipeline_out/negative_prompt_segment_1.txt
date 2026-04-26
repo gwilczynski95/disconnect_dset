@@ -1,0 +1,1 @@
+flat plane extension, 2D stretching, dissolving dividing walls, floor texture blending, incorrect archway framing, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

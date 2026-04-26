@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth 180-degree orbit left and pedestal down transitioning from elevated kitchen view to the opposite living room view. Traverse the open spatial volume, rotating around the granite island and wooden chairs. No morphing, continuous 3D volume, strict spatial depth.

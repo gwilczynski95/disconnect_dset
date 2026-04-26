@@ -1,0 +1,1 @@
+Cabinet warping, parquet floor stretching, flat 2D projection, scaling objects instead of camera movement, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.
