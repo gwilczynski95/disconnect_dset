@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth dolly out, pedestal up, and slight pan left, transitioning from a close-up of the corner stove to a wide view of the entire kitchen. Reveal the parquet wood floor, dining table to the left, and refrigerator wall opposite. No morphing, continuous 3D volume, strict spatial depth.

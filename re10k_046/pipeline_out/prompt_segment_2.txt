@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth forward aerial plunge and descent transitioning from wide high-altitude view of winding path to the tighter nested focus on pool and circular patio. Continuous top-down nadir perspective traversing the vertical Z-axis space above the trees. No morphing, continuous 3D volume, strict spatial depth.

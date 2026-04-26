@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth pedestal up, tilt down, and orbit left transitioning from ground-level front entrance to the perpendicular high-angle side facade. Revealing the sharp 90-degree protruding stone building corner and intersecting street plane. No morphing, continuous 3D volume, strict spatial depth.

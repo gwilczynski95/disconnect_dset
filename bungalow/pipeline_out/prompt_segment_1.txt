@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth crane up and orbit right transitioning from flat white wall to high-angle corner perspective. Reveal hidden porch and roof structure. Maintain 90-degree building corner, continuous concrete planter, and fixed garden hose. No morphing, continuous 3D volume, strict spatial depth.

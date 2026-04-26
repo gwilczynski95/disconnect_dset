@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth crane down and dolly right, panning left, transitioning from elevated dining room view to the adjacent living room area. Focus shifts to the ground-level perspective of the blue sofa and glass partition. Continuous 3D volume, strict spatial depth mapping the vertical descent. No morphing.

@@ -1,1 +1,0 @@
-Flat plane extension of room divider, 2D stretching of leather sofa, warping of angled ceiling beams, object duplication, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Forward dolly and pedestal down transitioning from high vantage over sink to the directly ahead dining table and refrigerator wall. Traversing open parquet floor volume bridging the kitchen. No morphing, continuous 3D volume, strict spatial depth.

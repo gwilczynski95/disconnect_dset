@@ -1,1 +1,0 @@
-flat plane extension, vertical stretching of speakers, scaling inconsistencies, morphing TV into furniture, 2D stretching of the floor, teleporting objects, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

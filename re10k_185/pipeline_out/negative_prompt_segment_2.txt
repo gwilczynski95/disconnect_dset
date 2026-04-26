@@ -1,1 +1,0 @@
-Flat asphalt extension, 2D scaling, building melting, linear continuation, vertical stretching, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

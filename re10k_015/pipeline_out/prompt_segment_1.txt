@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth pedestal up, dolly backward, and tilt down transitioning from eye-level desk view to the elevated wide view revealing adjacent bedroom. Connecting volume is deep floor space through open doorway. No morphing, continuous 3D volume, strict spatial depth.

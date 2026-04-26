@@ -1,1 +1,0 @@
-flat plane extension, linear continuation, 2D stretching, 2D scale zooming, flattening 3D depth, parallax failure, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Pedestal up, dolly left, tilt down transitioning from ground-level front view of equestrian statue to the elevated left-side perspective of plaza floor. Reveal extended left building wing and downward angle on foreground plaques. No morphing, continuous 3D volume, strict spatial depth.

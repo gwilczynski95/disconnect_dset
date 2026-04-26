@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth pedestal up and dolly backward transitioning from ground-level living room view to the elevated adjacent kitchen island. Revealing the vertical drop and horizontal hardwood floor distance between spaces. No morphing, continuous 3D volume, strict spatial depth.

@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth dolly out backward and pedestal up, transitioning from low-angle focus on the red beanbag to the wider, higher-angle room view. Revealing the adjacent adjustable desk, tall bookcase, and striped rug in the foreground. Maintain consistent floor plane and object scale. No morphing, continuous 3D volume, strict spatial depth.

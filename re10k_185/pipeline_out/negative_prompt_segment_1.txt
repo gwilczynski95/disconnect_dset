@@ -1,1 +1,0 @@
-2D stretching, vertical texture smearing, flat plane extension, melting rooflines, morphing buildings, warping, liquid geometry, wind, motion, dynamic environment, hallucinations.

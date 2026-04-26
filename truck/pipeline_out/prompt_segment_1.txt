@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth orbit left and dolly forward transitioning from passenger side profile of teal truck to the adjacent front three-quarter view. Reveal volumetric front right fender, curved hood, grille, and headlights. Maintain rigid concrete floor grid and background building parallax. No morphing, continuous 3D volume, strict spatial depth.

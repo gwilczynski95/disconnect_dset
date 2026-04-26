@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth pedestal up, dolly back, and tilt down transitioning from ground-level view of the house to an elevated aerial view revealing the full property complex and driveway. Unveil hidden outbuildings behind the foreground structures. No morphing, continuous 3D volume, strict spatial depth.

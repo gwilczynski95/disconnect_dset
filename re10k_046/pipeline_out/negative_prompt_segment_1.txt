@@ -1,1 +1,0 @@
-shrinking objects, 2D scaling, flat plane extension, tilting perspective, focal length changes, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

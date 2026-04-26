@@ -1,1 +1,0 @@
-2D scaling, object shrinking, sofa stretching, flat plane extension, linear continuation, floating foreground objects, dissolving geometry, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Forward-left dolly and pedestal down transitioning from elevated aerial wide shot of the yard to the adjacent closer, low-angle view of the patio. Camera descends through physical space over the lawn, maintaining the diagonal planter wall as a rigid 3D structural anchor. No morphing, continuous 3D volume, strict spatial depth.

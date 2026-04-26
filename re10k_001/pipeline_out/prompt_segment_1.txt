@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth crane up and extreme tilt down transitioning from eye-level console table view to the directly above top-down foyer view. Traversing vertical space revealing upper balcony railing, adjacent curving wooden staircase, and shifting doorway perspective. No morphing, continuous 3D volume, strict spatial depth.

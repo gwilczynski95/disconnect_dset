@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth descending orbit right transitioning from high-angle front-three-quarter locomotive view to low-angle perpendicular side profile. Sweeping downward arc around the engine's metal frame to the side cab. No morphing, continuous 3D volume, strict spatial depth.

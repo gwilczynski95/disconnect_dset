@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth crane up, dolly back, and tilt down, transitioning from low-angle floor and door to the high-angle wide room overview. Expanding vertical perspective revealing green walls, windows, furniture layout, and full rug. No morphing, continuous 3D volume, strict spatial depth.

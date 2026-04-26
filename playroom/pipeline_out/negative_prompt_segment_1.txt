@@ -1,1 +1,0 @@
-2D scaling, zooming effect, flat plane extension, object melting, perspective shifting, linear continuation, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

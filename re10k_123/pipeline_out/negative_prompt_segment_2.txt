@@ -1,1 +1,0 @@
-flat plane extension, 2D stretching, fusing walls, melting foreground vase, linear continuation, architectural blending, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

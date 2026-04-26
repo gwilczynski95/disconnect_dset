@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth backward dolly and pedestal up transitioning from eye-level sitting room to the elevated adjacent tiled hallway. Reveal dividing wall and archway framing the room, transition from wood to tile floor, maintain exact sofa and window volume. No morphing, continuous 3D volume, strict spatial depth.

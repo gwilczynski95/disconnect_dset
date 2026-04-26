@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth dolly forward and pan right transitioning from the wide sitting room archway to the adjacent deeper hallway. Camera pushes past the dividing wall, moving close to the foreground white vase, traversing the physical 3D volume of the tiled corridor to reveal the unseen left room. No morphing, continuous 3D volume, strict spatial depth.

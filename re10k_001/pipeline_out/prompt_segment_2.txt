@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Pedestal down, tilt up, pan right transitioning from high-angle balcony view to the directly below ground-level curved staircase. Vertical drop through open foyer airspace, maintaining strict parallax between brass statues, stairs, and adjacent red sofa room. No morphing, continuous 3D volume, strict spatial depth.
