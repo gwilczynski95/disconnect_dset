@@ -1,1 +1,0 @@
-flat plane extension, linear 2D sliding, morphing side wall into front facade, warping architectural pillars, flattening porch depth, 2D stretching, liquid geometry, wind, foliage motion, dynamic environment, texture sliding, structural hallucinations.

@@ -1,1 +1,0 @@
-2D plane stretching, linear interpolation of facade, flattening plaza depth, morphing cars into lampposts, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

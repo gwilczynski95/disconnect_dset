@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Smooth orbit right and dolly backward transitioning from flat side wall to the adjacent front porch. Reveal the 90-degree building corner, palm tree, and wooden deck. No morphing, continuous 3D volume, strict spatial depth.

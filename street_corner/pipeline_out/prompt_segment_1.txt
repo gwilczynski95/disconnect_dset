@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Lateral dolly right and pan left transitioning from open plaza view of curved facade to adjacent sidewalk corridor. Traverse paved volume, strict parallax shift of lampposts and parked cars revealing deep street perspective. No morphing, continuous 3D volume, strict spatial depth.

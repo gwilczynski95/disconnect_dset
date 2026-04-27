@@ -1,1 +1,0 @@
-Frozen 3D scene, rigid geometry. Dolly left and forward with pan right transitioning from longitudinal sidewalk perspective to the adjacent, angled street view facing the curved arcaded building facade. Reveals street surface and shifts the central ornate lamppost to the left foreground. No morphing, continuous 3D volume, strict spatial depth.

@@ -1,1 +1,0 @@
-flat wall extension, 2D plane stretching, linear continuation, structural morphing, floating furniture, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.
