@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth pan right transitioning from the equestrian statue to the adjacent white building facade. Rotating across the flat cobblestone plaza, maintaining rigid foreground plaque depth while revealing receding architectural perspective. No morphing, continuous 3D volume, strict spatial depth.

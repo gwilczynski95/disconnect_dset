@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth backward dolly, pedestal up, and tilt up transitioning from downward view of floor, rug corner, and lower door frame to the wider enveloping full dining room with table, chairs, and shuttered window. Revealing vertical room volume, structural walls, and receding spatial depth. No morphing, continuous 3D volume, strict spatial depth.

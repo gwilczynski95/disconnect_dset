@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Dolly forward and smooth pan right transitioning from the deep hallway to the adjacent curved staircase. Camera rotates roughly 60-degrees right, shifting the red sofa room from the right peripheral to the left archway. Strict preservation of stairwell curvature. No morphing, continuous 3D volume, strict spatial depth.

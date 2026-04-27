@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth lateral dolly left and pedestal up transitioning from front-left corner of green locomotive to the adjacent left side profile. Maintain rigid volume of train body, static metal railings, and exact parallax on background hills. No morphing, continuous 3D volume, strict spatial depth.

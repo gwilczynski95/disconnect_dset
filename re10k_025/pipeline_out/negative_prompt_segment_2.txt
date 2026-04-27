@@ -1,0 +1,1 @@
+2D stretching, cabinet morphing, flat plane extension, texture sliding, dissolving furniture, liquid geometry, warping, wind, motion, dynamic environment, hallucinations, non-rigid architecture.

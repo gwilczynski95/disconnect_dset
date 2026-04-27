@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth pan right and slight dolly back transitioning from the brown sofa to the adjacent open-plan dining area. Reveal continuous hardwood floor and blue walls connecting the 3D volume. Keep glass table, rug, and sofa geometrically stable while rotating perspective. No morphing, continuous 3D volume, strict spatial depth.

@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth forward dolly transitioning from living room foreground to the adjacent dining area. Traverse open wood floor, pushing past the sofa and armchair, moving deep into the dining space toward the grandfather clock. No morphing, continuous 3D volume, strict spatial depth.

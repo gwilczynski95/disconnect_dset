@@ -1,0 +1,1 @@
+2D stretching, flat plane extension, object scaling instead of camera movement, linear continuation, cabinet melting, perspective distortion, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

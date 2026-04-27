@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Lateral dolly right and pan left transitioning from the TV area to the adjacent protruding wall corner and sofa. The camera shifts right, revealing a hidden 90-degree wall structure while keeping the black speaker and potted plant as a persistent left-side 3D anchor. No morphing, continuous 3D volume, strict spatial depth.

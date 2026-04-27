@@ -1,0 +1,1 @@
+flat 2D panning, stretching furniture, merging objects, 2D planar extension, distorted glass reflections, linear continuation, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

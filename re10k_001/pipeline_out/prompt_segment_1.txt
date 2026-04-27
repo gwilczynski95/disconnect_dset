@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth dolly backward and pan right transitioning from tight angle on right-side console table to the wider hallway. Reveal curved staircase on the right as the table shifts left in foreground. Preserve receding hardwood floor depth towards central doorway. No morphing, continuous 3D volume, strict spatial depth.

@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth forward-right dolly and pan left transitioning from doorway view of central table to the adjacent right wall with fireplace. Orbiting the central table to reveal the side wall, keeping wooden chest and chair geometrically anchored. No morphing, continuous 3D volume, strict spatial depth.

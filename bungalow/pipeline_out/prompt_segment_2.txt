@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth orbit right and dolly forward transitioning from the left side exterior wall to the adjacent front covered porch. Rotating around the 3D corner structural pillar and palm tree to reveal the recessed spatial depth of the wooden deck and open doorway. No morphing, continuous 3D volume, strict spatial depth.

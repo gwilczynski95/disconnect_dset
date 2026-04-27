@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth pan left transitioning from the central bed to the adjacent left wall's built-in wooden desk. Maintain strict 90-degree room corner geometry connecting the curtained window to the workspace. Nightstand and lamp serve as rigid spatial anchors shifting right. No morphing, continuous 3D volume, strict spatial depth.

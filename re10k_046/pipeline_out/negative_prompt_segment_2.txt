@@ -1,0 +1,1 @@
+2D scaling, flat image zoom, melting roofs, water ripples, tree warping, flat plane extension, linear continuation, 2D stretching, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

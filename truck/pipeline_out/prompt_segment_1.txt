@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth orbit right and dolly forward transitioning from the side profile of the turquoise truck to the adjacent 3/4 front view of the cab. Reveal the front hood, grille, and rigid volumetric cab structure over paved square tiles. No morphing, continuous 3D volume, strict spatial depth.

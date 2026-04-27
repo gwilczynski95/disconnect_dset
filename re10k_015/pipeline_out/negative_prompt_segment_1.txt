@@ -1,0 +1,1 @@
+Flat plane extension, linear continuation of headboard, 2D stretching of bed, morphing curtains into bookshelf, ignored corner depth, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

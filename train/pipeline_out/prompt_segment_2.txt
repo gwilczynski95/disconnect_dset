@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth orbit right and lateral dolly left transitioning from the angled front nose of the locomotive to the perpendicular broad side profile. Revealing the 3D structural volume, flattening the receding perspective into a direct orthographic side view. No morphing, continuous 3D volume, strict spatial depth.

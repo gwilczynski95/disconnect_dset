@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth dolly backward and left transitioning from close-up angled view of the white chair to the wider frontal view of the central seating arrangement. Expanding the 3D room volume backward along the floorboards to reveal rear desks. No morphing, continuous 3D volume, strict spatial depth.

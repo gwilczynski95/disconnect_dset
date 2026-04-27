@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth orbit left and dolly in transitioning from the 3/4 passenger side to the perpendicular front grille. Reveal curved right fender, headlights, and rigid hood volume. No morphing, continuous 3D volume, strict spatial depth.

@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Forward-right diagonal dolly transitioning from wide room view to the adjacent tiled hallway. Pushing past the spatial depth to bring the floral pedestal from right-midground to left-foreground. Unseen 3D volume: the tiled floor approach and precise corner parallax. No morphing, continuous 3D volume, strict spatial depth.

@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Forward dolly and pan right transitioning from the main blue house to the adjacent detached blue garage on the right. Traversing the asphalt driveway, revealing the new right-side structure while maintaining the background shed's parallax depth. No morphing, continuous 3D volume, strict spatial depth.

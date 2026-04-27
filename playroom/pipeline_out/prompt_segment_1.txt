@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth dolly backward and pan right transitioning from the red beanbag and play table to the adjacent tall white bookcase. Reveal wider room volume extending rightward, maintaining strict floor plane alignment. No morphing, continuous 3D volume, strict spatial depth.

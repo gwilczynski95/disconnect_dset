@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth lateral dolly left and pan right orbiting from angled view of blue house extension to the adjacent broad facade with chimney, deck, and garage. Traversing across the lawn around the chimney corner to reveal perpendicular architecture. No morphing, continuous 3D volume, strict spatial depth.

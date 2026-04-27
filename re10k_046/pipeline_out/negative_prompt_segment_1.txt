@@ -1,0 +1,1 @@
+flat 2D zooming, scaling without 3D parallax, topographical flattening, morphing trees, water ripples, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

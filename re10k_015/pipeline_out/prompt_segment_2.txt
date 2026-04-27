@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth lateral dolly and pan left, transitioning from the window and right desk edge to the adjacent L-shaped corner desk and white door. Reveal continuous wooden bookshelf volume and under-cabinet lighting. No morphing, continuous 3D volume, strict spatial depth.

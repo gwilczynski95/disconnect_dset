@@ -1,0 +1,92 @@
+_target: src.experiment.Experiment
+data: data/re10k_025
+experiment_name: re10k_025
+model_name: glados
+output_dir: outputs
+pipeline:
+  _target: src.pipeline.Pipeline
+  data: null
+  liminal_generator:
+    _target: src.generators.liminal_generators.FramepackLiminalGenerator
+    data: null
+    guidance_scale: 7.0
+    image_generator:
+      _target: src.generators.gemini_generators.GeminiImageGenerator
+      api_key_path: assets/api_key.txt
+      base_delay_seconds: 3
+      max_retries: 5
+      model: gemini-3.1-pro-preview
+      nano_meta_prompt_path: assets/nano_meta_prompt.txt
+      num_candidates: 3
+      output_dir: null
+    images_per_clip: 2
+    judgement_generator:
+      _target: src.generators.qwen_generators.QwenJudgementGenerator
+      attn_implementation: null
+      device_map: auto
+      model: Qwen/Qwen2-VL-7B-Instruct
+      num_candidates: 3
+      offload_folder: ./hf_cache/qwen_offload
+      output_dir: null
+      torch_dtype: torch.float16
+    output_dir: null
+    prompt_generator:
+      _target: src.generators.gemini_generators.GeminiPromptGenerator
+      api_key_path: assets/api_key.txt
+      model: gemini-3.1-pro-preview
+      num_candidates: 3
+      output_dir: null
+      video_meta_prompt_path: assets/video_meta_prompt.txt
+  output_dir: null
+  reconstruction_model:
+    _target: src.models.anysplat.AnySplat
+    model_id: lhjiang/anysplat
+  refinement_model:
+    _target: src.models.loop_refinement.SplatLoopRefiner
+    evaluate_every: 1
+    evaluator:
+      _target: src.utils.evaluator.IterativeEvaluator
+      clip_score:
+        _target: src.utils.metrics.CLIPScore
+        device: cuda
+        model_name: openai/clip-vit-base-patch16
+      lpips:
+        _target: src.utils.metrics.LPIPS
+        device: cuda
+        net_type: vgg
+    image_enhancer:
+      _target: src.models.image_enhancer.ImageEnhancer
+      controlnet_strength: 0.75
+      guidance_scale: 6.0
+      hdr: 0.0
+      num_inference_steps: 20
+      resolution: 1024
+      scheduler_name: DDIM
+      strength: 0.4
+    inpainting_model:
+      _target: src.models.inpainter.MaskedGridInpaintingModel
+      abs_depth_threshold: 0.1
+      alignment_method: affine
+      debug: true
+      first_reference_path: data/library_uj/monocular_depth/img0.npz
+      model: diffusers/stable-diffusion-xl-1.0-inpainting-0.1
+      relative_depth_threshold: 0.01
+      second_reference_path: data/library_uj/monocular_depth/img1.npz
+      visibility_mode: any
+    lambda_dssim: 0.2
+    num_cycles: 5
+    num_views: 20
+    prompt_generator:
+      _target: src.generators.gemini_generators.GeminiPromptGenerator
+      api_key_path: assets/api_key.txt
+      model: gemini-3.1-flash-lite-preview
+      num_candidates: 3
+      output_dir: null
+      video_meta_prompt_path: assets/video_meta_prompt.txt
+    t_end: 0.0
+    t_start: 0.2
+    train_iterations_per_cycle: 300
+  skip_dataset_generation: false
+  skip_reconstruction: true
+  skip_refinement: true
+timestamp: pipeline_out

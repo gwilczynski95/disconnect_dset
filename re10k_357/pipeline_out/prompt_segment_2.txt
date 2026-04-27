@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Dolly forward and pan right transitioning from wide dining-living area to the adjacent living room space. Traversing open carpeted floor, shifting perspective on the central dividing wall, floral armchair, and glass partition. No morphing, continuous 3D volume, strict spatial depth.

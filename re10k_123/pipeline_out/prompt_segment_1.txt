@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth orbit right and pan left transitioning from front-facing living room couch to the adjacent deep hallway and staircase. The right-side piano acts as a spatial pivot, revealing the unseen perpendicular corridor depth. No morphing, continuous 3D volume, strict spatial depth.

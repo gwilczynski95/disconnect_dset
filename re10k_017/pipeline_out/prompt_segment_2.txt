@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Dolly forward and pan right 90 degrees transitioning from parallel view of right-side kitchen island to perpendicular front view of island and adjacent clock wall. Revealing unseen 90-degree room corner and background dining area. No morphing, continuous 3D volume, strict spatial depth.

@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Lateral dolly right and slight pan left transitioning from the stone canopy entrance to the adjacent dark-framed glass facade. Continuous parallel tracking along the flat exterior wall, maintaining rigid planter and umbrella depth. No morphing, continuous 3D volume, strict spatial depth.

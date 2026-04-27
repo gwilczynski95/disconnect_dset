@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth lateral dolly right transitioning from the central dining area to the adjacent open-plan living room. Reveal the continuous carpeted floor volume, tracking past the hallway doorway to expose the patterned armchair, glass partition, and blue sofa. No morphing, continuous 3D volume, strict spatial depth.

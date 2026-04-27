@@ -1,0 +1,1 @@
+2D floor stretching, vertical smearing, flat plane extension, failing to build vertical walls, chair morphing, perspective distortion, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

@@ -1,0 +1,1 @@
+flat plane extension, 2D stretching, linear continuation, wall morphing, object melting, shifting furniture, changing rug pattern, window teleporting, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.

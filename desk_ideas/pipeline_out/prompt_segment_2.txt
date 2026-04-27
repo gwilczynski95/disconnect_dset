@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Forward-right dolly with left pan transitioning from wide view of seating area to the right-adjacent closer perspective of the white stool and plant. Parallax shift around central furniture revealing floor depth and distant coat racks. No morphing, continuous 3D volume, strict spatial depth.
