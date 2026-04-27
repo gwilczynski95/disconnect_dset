@@ -1,1 +1,1 @@
-Sofa stretching, divider pattern morphing, flat 2D panning, linear continuation, flat plane extension, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.
+2D stretching, texture sliding, morphing leather, warping ceiling beams, liquid geometry, wind, moving shadows, distorted screen pattern, floor warping, hallucinations, perspective bending.

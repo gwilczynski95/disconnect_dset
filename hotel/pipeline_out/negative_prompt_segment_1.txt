@@ -1,1 +1,1 @@
-2D panning, perspective bending, flat plane extension, architectural stretching, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.
+morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations, perspective rotation, zooming, fish-eye distortion, floor texture stretching, disappearing columns, shadow flickering.

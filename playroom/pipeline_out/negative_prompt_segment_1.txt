@@ -1,1 +1,1 @@
-2D scaling, flat plane extension, floor tearing, distorted panorama stitching, mismatched scale, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations.
+flat plane extension, linear continuation, 2D stretching, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations, furniture shifting, wall melting, disappearing toys.

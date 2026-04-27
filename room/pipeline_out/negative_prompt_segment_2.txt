@@ -1,1 +1,1 @@
-flat plane extension, linear continuation, 2D stretching, morphing, warping, liquid geometry, wind, motion, dynamic environment, texture sliding, hallucinations, object melting, wall distortion, missing parallax.
+morphing, warping, liquid geometry, texture sliding, 2D stretching, floor distortion, flickering, disappearing furniture, perspective shifts, hallucinations, motion blur, zooming, lens distortion.

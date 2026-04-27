@@ -1,61 +1,67 @@
-_target: src.experiment.Experiment
-data: data/couch_ideas
+!!python/object:src.experiment.ExperimentConfig
+_target: !!python/name:src.experiment.Experiment ''
+data: !!python/object/apply:pathlib.PosixPath
+- /
+- shared
+- results
+- gmwilczn
+- disconnect
+- disc-baseline
+- disconnect-views
+- submodules
+- disconnect_dset
+- couch_ideas
 experiment_name: couch_ideas
-model_name: glados
-output_dir: outputs
-pipeline:
-  _target: src.pipeline.Pipeline
+output_dir: /shared/results/gmwilczn/disconnect/disc-baseline/disconnect-views/output
+pipeline: !!python/object:src.pipeline.PipelineConfig
+  _target: !!python/name:src.pipeline.Pipeline ''
   data: null
-  liminal_generator:
-    _target: src.generators.liminal_generators.FramepackLiminalGenerator
+  liminal_generator: !!python/object:src.generators.liminal_generators.FramepackLiminalGeneratorConfig
+    _target: !!python/name:src.generators.liminal_generators.FramepackLiminalGenerator ''
     data: null
     guidance_scale: 7.0
-    image_generator:
-      _target: src.generators.gemini_generators.GeminiImageGenerator
+    image_generator: !!python/object:src.generators.gemini_generators.GeminiImageGeneratorConfig
+      _target: !!python/name:src.generators.gemini_generators.GeminiImageGenerator ''
       api_key_path: assets/api_key.txt
       base_delay_seconds: 3
       max_retries: 5
-      model: gemini-3.1-pro-preview
+      model: gemini-3.1-flash-image-preview
       nano_meta_prompt_path: assets/nano_meta_prompt.txt
       num_candidates: 3
       output_dir: null
     images_per_clip: 2
-    judgement_generator:
-      _target: src.generators.qwen_generators.QwenJudgementGenerator
-      attn_implementation: null
-      device_map: auto
+    judgement_generator: !!python/object:src.generators.qwen_generators.QwenJudgementGeneratorConfig
+      _target: !!python/name:src.generators.qwen_generators.QwenJudgementGenerator ''
       model: Qwen/Qwen2-VL-7B-Instruct
       num_candidates: 3
-      offload_folder: ./hf_cache/qwen_offload
       output_dir: null
-      torch_dtype: torch.float16
     output_dir: null
-    prompt_generator:
-      _target: src.generators.gemini_generators.GeminiPromptGenerator
+    prompt_generator: !!python/object:src.generators.gemini_generators.GeminiPromptGeneratorConfig
+      _target: &id001 !!python/name:src.generators.gemini_generators.GeminiPromptGenerator ''
       api_key_path: assets/api_key.txt
-      model: gemini-3.1-pro-preview
+      model: gemini-3-flash-preview
       num_candidates: 3
       output_dir: null
       video_meta_prompt_path: assets/video_meta_prompt.txt
   output_dir: null
-  reconstruction_model:
-    _target: src.models.anysplat.AnySplat
+  reconstruction_model: !!python/object:src.models.anysplat.AnySplatConfig
+    _target: !!python/name:src.models.anysplat.AnySplat ''
     model_id: lhjiang/anysplat
-  refinement_model:
-    _target: src.models.loop_refinement.SplatLoopRefiner
+  refinement_model: !!python/object:src.models.loop_refinement.SplatRefinerLoopConfig
+    _target: !!python/name:src.models.loop_refinement.SplatLoopRefiner ''
     evaluate_every: 1
-    evaluator:
-      _target: src.utils.evaluator.IterativeEvaluator
-      clip_score:
-        _target: src.utils.metrics.CLIPScore
+    evaluator: !!python/object:src.utils.evaluator.IterativeEvaluatorConfig
+      _target: !!python/name:src.utils.evaluator.IterativeEvaluator ''
+      clip_score: !!python/object:src.utils.metrics.CLIPScoreConfig
+        _target: !!python/name:src.utils.metrics.CLIPScore ''
         device: cuda
         model_name: openai/clip-vit-base-patch16
-      lpips:
-        _target: src.utils.metrics.LPIPS
+      lpips: !!python/object:src.utils.metrics.LPIPSConfig
+        _target: !!python/name:src.utils.metrics.LPIPS ''
         device: cuda
         net_type: vgg
-    image_enhancer:
-      _target: src.models.image_enhancer.ImageEnhancer
+    image_enhancer: !!python/object:src.models.image_enhancer.ImageEnhancerConfig
+      _target: !!python/name:src.models.image_enhancer.ImageEnhancer ''
       controlnet_strength: 0.75
       guidance_scale: 6.0
       hdr: 0.0
@@ -63,23 +69,16 @@ pipeline:
       resolution: 1024
       scheduler_name: DDIM
       strength: 0.4
-    inpainting_model:
-      _target: src.models.inpainter.MaskedGridInpaintingModel
-      abs_depth_threshold: 0.1
-      alignment_method: affine
-      debug: true
-      first_reference_path: data/library_uj/monocular_depth/img0.npz
-      model: diffusers/stable-diffusion-xl-1.0-inpainting-0.1
-      relative_depth_threshold: 0.01
-      second_reference_path: data/library_uj/monocular_depth/img1.npz
-      visibility_mode: any
+    inpainting_model: !!python/object:src.models.inpainter.GridInpaintingModelConfig
+      _target: !!python/name:src.models.inpainter.GridInpaintingModel ''
+      model: runwayml/stable-diffusion-v1-5
     lambda_dssim: 0.2
     num_cycles: 5
-    num_views: 20
-    prompt_generator:
-      _target: src.generators.gemini_generators.GeminiPromptGenerator
+    num_views: 200
+    prompt_generator: !!python/object:src.generators.gemini_generators.GeminiPromptGeneratorConfig
+      _target: *id001
       api_key_path: assets/api_key.txt
-      model: gemini-3.1-flash-lite-preview
+      model: gemini-3-flash-preview
       num_candidates: 3
       output_dir: null
       video_meta_prompt_path: assets/video_meta_prompt.txt
