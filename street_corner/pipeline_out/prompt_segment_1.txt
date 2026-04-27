@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth forward dolly and orbit right transitioning from the distant arched street view to the perpendicular rounded building corner. Wrap around the curved stone corner. Maintain consistent street lamp placement and pillar alignment. No morphing, continuous 3D volume, strict spatial depth.

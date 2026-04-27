@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth orbit right, pivoting around the cabin corner. Transitioning from the side wall with window to the perpendicular front wooden deck. Maintain sharp structural edge and corner transition. Continuous 3D volume, no warping, strict spatial depth, static environment.

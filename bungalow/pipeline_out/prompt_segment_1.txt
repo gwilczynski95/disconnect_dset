@@ -1,0 +1,1 @@
+Frozen 3D scene, rigid geometry. Smooth dolly back and orbit right transitioning from the windowed side wall to the perpendicular wooden porch and deck. Reveal the 90-degree building corner and roof overhang. Continuous 3D volume, strict spatial depth, locked ground textures.

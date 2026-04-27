@@ -1,0 +1,1 @@
+morphing corner, flat plane extension, 2D stretching, texture sliding, liquid geometry, appearing pedestrians, moving vehicles, wind, motion blur, flickering windows, warping street signs, hallucinations.
